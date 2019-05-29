@@ -13,4 +13,4 @@
   * nodejs
     * expressjs
 
-##### more information: https://github.com/tegcommerce/tegcommerce-requirement
+###### [more information](https://github.com/tegcommerce/tegcommerce-requirement)
